@@ -1503,7 +1503,7 @@
     "jsonc-parser": "^2.1.0",
     "minimatch": "^3.0.4",
     "mkdirp": "^0.5.1",
-    "plist": "^2.0.1",
+    "plist": "^3.0.4",
     "tmp": "^0.1.0",
     "vscode-cpptools": "^2.1.2",
     "vscode-debugadapter": "^1.35.0",
