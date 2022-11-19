@@ -1494,7 +1494,7 @@
     "vrsource-tslint-rules": "^6.0.0",
     "vscode": "^1.1.35",
     "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "escape-string-regexp": "^2.0.0",
